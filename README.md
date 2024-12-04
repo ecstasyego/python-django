@@ -16,8 +16,8 @@ $ django-admin startapp [app_name]
 `manage.py`  
 ```bash
 $ python manage.py runserver
+$ python manage.py makemigrations
 $ python manage.py createsuperuser
-$ python manage.py
 $ python manage.py
 $ python manage.py
 ```
