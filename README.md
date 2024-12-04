@@ -1,7 +1,16 @@
 # python-django
+`Installation`  
+```bash
+$ pip install django
+```
 
+## django
+```bash
+$ django-admin startproject [project_name]
+$ django-admin startapp [app_name]
+```
 
-## manage.py
+`manage.py`  
 ```bash
 $ python manage.py runserver
 $ python manage.py createsuperuser
